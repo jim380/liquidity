@@ -3,7 +3,7 @@ go 1.15
 module github.com/gravity-devs/liquidity
 
 require (
-	github.com/cosmos/cosmos-sdk v0.42.6
+	github.com/cosmos/cosmos-sdk v0.43.0-rc0
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/mux v1.8.0
